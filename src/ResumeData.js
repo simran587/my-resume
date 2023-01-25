@@ -125,11 +125,6 @@ const skillsData = {
 const logoText = "Simran.";
 const menuIcon = "bx-grid-alt";
 
-// comment section
-
-
-
-
 // Right Section Content //
 
 // Projects Data
