@@ -59,7 +59,7 @@ const homeData = {
       icon: "bx-envelope",
     },
     {
-      text: " +1(470)-699-5974",
+      text: " +1 (470)-699-5974",
       icon: "bx-phone",
     },
   ],
@@ -122,7 +122,7 @@ const skillsData = {
   
   ],
 };
-const logoText = "Simran.";
+const logoText = "Simran";
 const menuIcon = "bx-grid-alt";
 
 // Right Section Content //
